@@ -23,6 +23,7 @@
 - [Additional Resources](#additional-resources)
 - [Conclusion](#conclusion)
 - [Summary](#summary)
+- [Discord Response](#discord-response)
 
 ---
 
@@ -129,3 +130,18 @@ Modern Fortran offers robust features such as object-oriented programming, which
 As computing continues to evolve, Fortran is embracing new directions such as GPU computing through CUDA Fortran and OpenACC, and adaptation to exascale computing environments. These advancements ensure that Fortran remains a vital tool for scientific and engineering applications.
 
 The continuous development of Fortran highlights its enduring relevance and capability in handling complex computational tasks, making it a valuable language in both legacy and cutting-edge computing scenarios.
+
+---
+
+## Discord Response
+
+By: Hayden Kaufmann
+
+ChatGPT explored the historical development, current features, and future trajectory of the Fortran programming language. The  model, ChatGPT-4o mini specifically, took a structured approach to the topic, presenting a detailed timeline of Fortran's evolution from its inception in the 1950s to its latest version in 2018. The report emphasizes Fortran's long-standing significance in scientific and numerical computing and its adaptability to modern computational needs such as high-performance computing (HPC).
+
+The report highlights key milestones, including the introduction of modular programming and array handling in Fortran 90, and advanced parallel features in more recent versions. Modern features like object-oriented programming (OOP), parallelism, and interoperability with languages like C and Python are discussed, showcasing Fortran’s current relevance.
+
+The direction the model took involved not just a retrospective look at Fortran's evolution but also a forward-looking analysis of emerging research trends. These include GPU integration, exascale computing, and enhanced parallelism, positioning Fortran to remain vital for future scientific and engineering challenges.
+
+Link: https://github.com/HKaufmann-Student/CPSC-354-Public/blob/master/Assignment%203/README.md#fortran-evolution-modern-features-and-future-directions](https://github.com/HKaufmann-Student/CPSC-354-Public/tree/master/Assignment%203)
+
